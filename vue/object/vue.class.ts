@@ -1,6 +1,6 @@
 import observer from "./observer";
 import _proxy from "./proxy";
-import Watcher from "./watcher";
+import Watcher from "./watcher.class";
 
 export default class Vue {
   _data: any;

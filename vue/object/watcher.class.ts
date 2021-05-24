@@ -1,4 +1,4 @@
-import Dep from "./Dep";
+import Dep from "./dep.class";
 
 // export default class Watcher {
 //   vm: any;

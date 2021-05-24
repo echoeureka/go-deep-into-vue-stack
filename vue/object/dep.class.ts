@@ -1,5 +1,5 @@
 import remove from "../../utils/remove";
-import Watcher from "./watcher";
+import Watcher from "./watcher.class";
 
 // export default class Dep {
 //   subs: any[];
