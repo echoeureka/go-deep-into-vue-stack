@@ -1,4 +1,4 @@
-import Dep from "./Dep";
+import Dep from "./dep.class";
 
 // export default function defineReactive(data: any, key: any, value: any) {
 //   if (typeof value === "object") {

@@ -1,4 +1,4 @@
-import Vue from "./Vue";
+import Vue from "./vue.class";
 
 let vm = new Vue({
   data: { cnt: 0 },
